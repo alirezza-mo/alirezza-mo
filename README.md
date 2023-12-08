@@ -14,15 +14,23 @@ const mySourceCode = {
 };
 ```
 <h2>Socials 🌍</h2>
-<a href="https://alirezza.dev2@gmail.com">
+<p align="center">
+    <a href="https://alirezza.dev2@gmail.com">
   
   ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
-</a><a href="https://Mo_alirezza">
+  </a>
+  <a href="https://t.me/Mo_alirezza">
   
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+  ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
-</a>
+  </a>
+  
+  <a href="https://instagram/Mo_alirezza">
+  
+  ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 
-![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)
-![Tutanota](https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white)
+  </a>
+</p>
+
+
