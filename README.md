@@ -19,9 +19,7 @@ const mySourceCode = {
   <img src="https://github.com/alirezza-mo/alirezza-mo/blob/main/icons8-gmail-96.png?raw=true">
 </a>
   <a href="https://t.me/Mo_alirezza">
-  
-  ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-
+    <img src="https://github.com/alirezza-mo/alirezza-mo/blob/main/icons8-telegram-94.png?raw=true">
   </a>
   
   <a href="https://instagram/Mo_alirezza">
