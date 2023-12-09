@@ -15,11 +15,6 @@ const mySourceCode = {
 ```
 <h2>Socials 🌍</h2>
 <p align="center">
-    <a href="mailto: alirezza.dev2@gmail.com">
-  
-  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
-  </a>
   <a href="https://t.me/Mo_alirezza">
   
   ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
