@@ -25,9 +25,7 @@ const mySourceCode = {
   </a>
   
   <a href="https://instagram/Mo_alirezza">
-  
-  ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-
+    <img src="https://github.com/alirezza-mo/alirezza-mo/blob/main/icons8-instagram-94.png?raw=true">
   </a>
 </p>
 
