@@ -14,6 +14,7 @@ const mySourceCode = {
 };
 ```
 <h2>Socials 🌍</h2>
+<a href="mailto: alirezza.dev2@gmail.com">send Email</a>
 <p align="center">
   <a href="https://t.me/Mo_alirezza">
   
