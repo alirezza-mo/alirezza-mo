@@ -22,7 +22,7 @@ const mySourceCode = {
     <img src="https://github.com/alirezza-mo/alirezza-mo/blob/main/icons8-telegram-94.png?raw=true">
   </a>
   
-  <a href="https://instagram/Mo_alirezza">
+  <a href="https://instagram.com/Mo_alirezza">
     <img src="https://github.com/alirezza-mo/alirezza-mo/blob/main/icons8-instagram-94.png?raw=true">
   </a>
 </p>
