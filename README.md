@@ -9,7 +9,7 @@ const mySourceCode = {
   name:"alireza moradi",
   nickname:"backspace",
   birthday : "23 - 10 - 2003",
-  skills:['HTML' , 'CSS' , 'JAVASCRIPT' , 'TAILWIND' , 'SASS' , 'Will be added soon'] , 
+  skills:['HTML' , 'CSS' , 'JAVASCRIPT' , 'TAILWIND' , 'SASS' , 'GIT & GITHUB' , 'NPM' ,'Will be added soon'] , 
   
 };
 ```
